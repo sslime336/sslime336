@@ -8,6 +8,6 @@
   <li>📫 How to reach me: sslime@yeah.net</li>
 </ul>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sslime336)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sslime336&show_icons=true&theme=tokyonight&layout=compact)
 
 
