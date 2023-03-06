@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <img align="right" block src="https://github-readme-stats.vercel.app/api?username=sslime336&show_icons=true&theme=dracula" width="45%" />
 
@@ -27,5 +27,6 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-398FDC?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5618C4?style=for-the-badge&logo=typescript)
 
+![fufu](https://user-images.githubusercontent.com/97684920/223184747-8fb39d2b-64ed-42c3-b9e2-3acd309df2df.gif)
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslime336&layout=compact&langs_count=10&exclude_repo=risc-v-roam&theme=dracula"/> -->
+<!-- <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslime336&layout=compact&langs_count=10&exclude_repo=risc-v-roam&theme=dracula" /> -->
