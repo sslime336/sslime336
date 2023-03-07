@@ -6,9 +6,9 @@
 [![Telegram](https://img.shields.io/badge/telegram-%232B5278.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sslime336)
 
 <ul>
-  <li>🔭 I’m currently working on slimeOS.</li>
+  <li>🔭 I’m currently working on OS kernel programming.</li>
   <li>🌱 I’m currently learning <del>睡大觉，摆大烂</del></li>
-  <li>🤔 I’m looking for help with OS kernel programming.</li>
+  <li>🤔 I’m looking for help with making big money and daydreaming all day long.</li>
   <li>📫 How to reach me: sslime@yeah.net</li>
 </ul>
 
