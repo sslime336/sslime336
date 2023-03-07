@@ -18,15 +18,16 @@
   <img src="https://img.shields.io/badge/Nim-111f2c?style=for-the-badge&logo=nim"/>
   <img src="https://img.shields.io/badge/Rust-F07416?style=for-the-badge&logo=rust"/>
   <img src="https://img.shields.io/badge/Javascript-398FDC?style=for-the-badge&logo=javascript"/>
-  <p></p>
-  <img src="https://img.shields.io/badge/Golang-111f2c?style=for-the-badge&logo=go"/>
-  <img src="https://img.shields.io/badge/Kotlin-BAF050?style=for-the-badge&logo=kotlin"/>
-  <img src="https://img.shields.io/badge/Vim-2ba840?style=for-the-badge&logo=vim"/>
-  <p></p>
+  
   <img src="https://img.shields.io/badge/Android-EE5079?style=for-the-badge&logo=android"/>
   <img src="https://img.shields.io/badge/C-2d3834?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/Lua-0f203b?style=for-the-badge&logo=lua"/>
   <p></p>
+  
+  <img src="https://img.shields.io/badge/Golang-111f2c?style=for-the-badge&logo=go"/>
+  <img src="https://img.shields.io/badge/Kotlin-BAF050?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/Vim-2ba840?style=for-the-badge&logo=vim"/>
+
   <img src="https://img.shields.io/badge/Python-0f203b?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/TypeScript-5618C4?style=for-the-badge&logo=typescript"/>
 </div>
