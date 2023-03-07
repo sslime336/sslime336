@@ -7,26 +7,32 @@
 
 <ul>
   <li>🔭 I’m currently working on slimeOS.</li>
-  <li>🌱 I’m currently learning 睡大觉，摆大烂~</li>
+  <li>🌱 I’m currently learning <del>睡大觉，摆大烂</del></li>
   <li>🤔 I’m looking for help with OS kernel programming.</li>
   <li>📫 How to reach me: sslime@yeah.net</li>
 </ul>
 
-### Tasted
-![Nim](https://img.shields.io/badge/Nim-111f2c?style=for-the-badge&logo=nim)
-![Rust](https://img.shields.io/badge/Rust-F07416?style=for-the-badge&logo=rust)
-![Go](https://img.shields.io/badge/Golang-111f2c?style=for-the-badge&logo=go)
-![Kotlin](https://img.shields.io/badge/Kotlin-BAF050?style=for-the-badge&logo=kotlin)
+<div align="left">
+  <p></p>
+<!--   <h3 align="left">Tasted</h3> -->
+  <img src="https://img.shields.io/badge/Nim-111f2c?style=for-the-badge&logo=nim"/>
+  <img src="https://img.shields.io/badge/Rust-F07416?style=for-the-badge&logo=rust"/>
+<!--   <img src="https://img.shields.io/badge/Javascript-398FDC?style=for-the-badge&logo=javascript"/> -->
+<!--   <p></p> -->
+  <img src="https://img.shields.io/badge/Golang-111f2c?style=for-the-badge&logo=go"/>
+  <img src="https://img.shields.io/badge/Kotlin-BAF050?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/Vim-2ba840?style=for-the-badge&logo=vim"/>
+<!--   <p></p> -->
+  <img src="https://img.shields.io/badge/Android-EE5079?style=for-the-badge&logo=android"/>
+  <img src="https://img.shields.io/badge/C-2d3834?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/Lua-0f203b?style=for-the-badge&logo=lua"/>
+<!--   <p></p> -->
+  <img src="https://img.shields.io/badge/Python-0f203b?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/TypeScript-5618C4?style=for-the-badge&logo=typescript"/>
+</div>
 
-![Vim](https://img.shields.io/badge/Vim-2ba840?style=for-the-badge&logo=vim)
-![Android](https://img.shields.io/badge/Android-EE5079?style=for-the-badge&logo=android)
-![C](https://img.shields.io/badge/C-2d3834?style=for-the-badge&logo=c)
-![Lua](https://img.shields.io/badge/Lua-0f203b?style=for-the-badge&logo=lua)
+<div>
+  <img align="center" src="https://user-images.githubusercontent.com/97684920/223184747-8fb39d2b-64ed-42c3-b9e2-3acd309df2df.gif" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-0f203b?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/Javascript-398FDC?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-5618C4?style=for-the-badge&logo=typescript)
-
-![fufu](https://user-images.githubusercontent.com/97684920/223184747-8fb39d2b-64ed-42c3-b9e2-3acd309df2df.gif)
-
-<!-- <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslime336&layout=compact&langs_count=10&exclude_repo=risc-v-roam&theme=dracula" /> -->
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslime336&layout=compact&langs_count=10&exclude_repo=risc-v-roam&theme=dracula" /> -->
