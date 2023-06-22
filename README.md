@@ -4,7 +4,7 @@
 
 - 👣 I’m currently learning whatever I want.
 - 🌱 Coding for fun.
-- 💢 Hate homework and exams.
+- ☁️ Living on the Cloud.
 - 📫 Email: sslime@yeah.net
 
 ![3d-contribution](./profile-3d-contrib/profile-night-rainbow.svg)
