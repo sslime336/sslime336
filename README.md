@@ -7,4 +7,13 @@
 - ☁️ Living on the Cloud.
 - 📫 Email: sslime@yeah.net
 
+Tech Stack
+
+- Lang: Java/Go/Rust/Kotlin/Nim/C/Python
+- Frontend: React.js/next.js Vue.js
+- Containerization: Docker/containerd
+- Cluster/DevOps: k8s/k3s
+- Arch: RISC-V/x86
+- App: Android/HarmonyOS
+
 ![3d-contribution](./profile-3d-contrib/profile-night-rainbow.svg)
