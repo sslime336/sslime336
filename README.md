@@ -15,5 +15,3 @@ Tech Stack
 - Cluster/DevOps: k8s/k3s
 - Arch: RISC-V/x86
 - App: Android/HarmonyOS
-
-![3d-contribution](./profile-3d-contrib/profile-night-rainbow.svg)
